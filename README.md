@@ -25,4 +25,4 @@ I’m excited to share my latest Power BI project, where I analyzed and visualiz
 
 Screenshot / Demo
 
-Example - (https://github.com/Sushil-17/PhonePe-PowerBi-Dashboard/blob/main/PhonePe.png)
+

@@ -1,4 +1,5 @@
 # PhonePe-PowerBi-Dashboard
+![Project Pipeline](https://github.com/najirh/Walmart_SQL_Python/blob/main/walmart_project-piplelines.png)
 🚀 Power BI Project: PhonePe Transaction Analytics Dashboard PhonePe
 I’m excited to share my latest Power BI project, where I analyzed and visualized PhonePe transaction data to uncover payment patterns, success trends, and customer behavior insights.
 
